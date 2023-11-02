@@ -1,0 +1,18 @@
+{
+  "name": "iceregs-tb",
+  "version": "0.1.0",
+  "description": "Testbenches for the iceRegs collection",
+  "keywords": ["Regs", "Registers", "Basic Testbenches"],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "main",
+    "url": "https://github.com/FPGAwars/iceRegs-TB"
+  }
+}
